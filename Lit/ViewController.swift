@@ -20,7 +20,7 @@ class ViewController: UIViewController {
     
         tapCount = tapCount + 1
         
-        if tapCount <= 10 {
+        if tapCount <= 20 {
             
             theLabel.text = "Keep going~"
         }
